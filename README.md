@@ -74,7 +74,7 @@ docker-compose down
 ### Without Docker
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/number-api.git
+git clone https://github.com/citadelict/number-api.git
 cd number-api
 ```
 
